@@ -37,7 +37,6 @@ namespace replace_all_occurance_of_string_with_another_string
                     }
                 }
             }
-
             return string.Join("",charArray);
         }
     }
